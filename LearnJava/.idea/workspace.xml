@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0683261-5688-464e-ac77-14413b650928" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaCodes/src/main/java/LambdaExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarOppsConcepts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CarOppsConcepts/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarOppsConcepts/CarOppsConcepts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CarOppsConcepts/CarOppsConcepts.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCodes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCodes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCodes/JavaCodes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCodes/JavaCodes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCodes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCodes/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/FeatureFiles/SearchFlights.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/FeatureFiles/SearchFlights.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/PageClasses/HomePageElementsMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/PageClasses/HomePageElementsMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/Resources/Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/Resources/Locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/Resources/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/Resources/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/stepDef/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/stepDef/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/stepDef/SearchFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/stepDef/SearchFlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Learn.Java-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucmber-html-report/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucmber-html-report/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/css/cucumber.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/js/Chart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/js/jquery.tablesorter.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/js/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/overview-failures.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/overview-features.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/overview-steps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/overview-tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/report-feature_SearchFlights-feature.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/Surefire suite/Surefire test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/Surefire suite/Surefire test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/Surefire suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/Surefire test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/Surefire suite/Surefire test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/Surefire suite/Surefire test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/Surefire suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/Surefire test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/PageClasses/HomePageElementsMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/PageClasses/HomePageElementsMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/Resources/Locators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/Resources/Locators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/Resources/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/Resources/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/stepDef/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/stepDef/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/stepDef/SearchFlight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/stepDef/SearchFlight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/RestAssured.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/RestAssured.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/src/Data/FlightData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/src/Data/FlightData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/src/test/java/RestAssuredTest/CreateDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/src/test/java/RestAssuredTest/CreateDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/src/test/java/RestAssuredTest/GetDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/src/test/java/RestAssuredTest/GetDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/src/test/java/RestAssuredTest/UpdateRecords.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/src/test/java/RestAssuredTest/UpdateRecords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/src/test/java/TestUtils/ExcelReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/src/test/java/TestUtils/ExcelReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/target/test-classes/RestAssuredTest/CreateDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/target/test-classes/RestAssuredTest/CreateDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/target/test-classes/RestAssuredTest/GetDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/target/test-classes/RestAssuredTest/GetDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/target/test-classes/RestAssuredTest/UpdateRecords.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/target/test-classes/RestAssuredTest/UpdateRecords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/target/test-classes/TestNGListners/TestListner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/target/test-classes/TestNGListners/TestListner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/target/test-classes/TestUtils/ExcelReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/target/test-classes/TestUtils/ExcelReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Selenium.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LearnJava$TestRunner__1_.ic" NAME="TestRunner (1) Coverage Results" MODIFIED="1542101125079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.epam.TestRunner.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LearnJava$Scenario__Search_Flight_One_Way.ic" NAME="Scenario: Search Flight One Way Coverage Results" MODIFIED="1548238046245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LearnJava$TestRunner.ic" NAME="RunCukesTest Coverage Results" MODIFIED="1542195691051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.epam.com.epam.TestRunner.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-437942973">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="40" />
+          <entry key="feature" value="978" />
+          <entry key="java" value="5490" />
+          <entry key="properties" value="27" />
+          <entry key="xml" value="55" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Cucumber" value="763" />
+          <entry key="JAVA" value="5490" />
+          <entry key="PLAIN_TEXT" value="42" />
+          <entry key="Properties" value="27" />
+          <entry key="Substeps" value="213" />
+          <entry key="XML" value="55" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="11" />
+          <entry key="feature" value="4" />
+          <entry key="java" value="26" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="11" />
+          <entry key="Cucumber" value="2" />
+          <entry key="JAVA" value="26" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1505603324">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="feature" value="186" />
+          <entry key="java" value="2551" />
+          <entry key="xml" value="226" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Cucumber" value="497" />
+          <entry key="JAVA" value="3390" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="230" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="feature" value="2" />
+          <entry key="html" value="1" />
+          <entry key="java" value="18" />
+          <entry key="properties" value="4" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="Cucumber" value="2" />
+          <entry key="Eclipse" value="1" />
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="34" />
+          <entry key="Properties" value="7" />
+          <entry key="XML" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/PageClasses/HomePageElementsMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="125" column="45" lean-forward="true" selection-start-line="125" selection-start-column="45" selection-end-line="125" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4316#4317#0" expanded="true" />
+                <element signature="e#4352#4353#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/stepDef/SearchFlight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="72" column="23" lean-forward="true" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2123#2124#0" expanded="true" />
+                <element signature="e#2170#2171#0" expanded="true" />
+                <element signature="e#1550#1551#0" expanded="true" />
+                <element signature="e#1599#1600#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/Resources/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/stepDef/Hooks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="698">
+              <caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/Resources/Log.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/FeatureFiles/SearchFlights.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="152" column="6" selection-start-line="152" selection-start-column="6" selection-end-line="152" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/TestRunner/RunCukesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pico</find>
+      <find>spring</find>
+      <find>SelectDestination</find>
+      <find>tab</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/resources/Login.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/com/epam/TestRunner/vinesh.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MyStepdefs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/stepDef/MyStepdefs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/com/epam/TestRunner/TestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/stepDef/LoginStepDef.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/resources/featureFiles/Login.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/stepDef/Vinesh.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/resources/featureFiles/SearchFlights.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/TestRunner/TestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/Locators.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/Resources/Config.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/Resources/Hooks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/Resources/Cucumber.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/Cucumber.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/PageClasses/FlightResultsElementsMethods.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/cucumber.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/stepDef/cucumber.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/Resources/ConfigReader.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/Resources/Locators.java" />
+        <option value="$PROJECT_DIR$/log4j.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/Resources/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/Resources/Log.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/stepDef/SearchFlight.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/TestRunner/RunCukesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/stepDef/Hooks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/PageClasses/HomePageElementsMethods.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/FeatureFiles/SearchFlights.feature" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Learn.Java" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Learn.Java" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1040" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="epam" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549014268215" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaCodes" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vinesh_Kumar\IdeaProjects\Incubation\LearnJava\src\test\resources" />
+      <recent name="C:\Users\Vinesh_Kumar\IdeaProjects\Incubation\LearnJava\src\test\java\com\epam\Resources" />
+      <recent name="C:\Users\Vinesh_Kumar\IdeaProjects\Incubation\LearnJava\src\test\java\com\epam\stepDef" />
+      <recent name="C:\Users\Vinesh_Kumar\IdeaProjects\LearnJava\src\test\java\com\epam" />
+      <recent name="C:\Users\Vinesh_Kumar\IdeaProjects\LearnJava\src\test\Resources\FeatureFiles" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vinesh_Kumar\IdeaProjects\Incubation\LearnJava" />
+      <recent name="C:\Users\Vinesh_Kumar\IdeaProjects\Incubation\LearnJava\src\test\resources" />
+      <recent name="C:\Users\Vinesh_Kumar\IdeaProjects\LearnJava\src\test\java\com\epam\Resources" />
+      <recent name="C:\Users\Vinesh_Kumar\IdeaProjects\LearnJava" />
+      <recent name="C:\Users\Vinesh_Kumar\IdeaProjects\LearnJava\src\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.RunCukesTest">
+    <configuration name="Feature: SearchFlights" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/com/epam/FeatureFiles/SearchFlights.feature" />
+      <option name="GLUE" value="com.epam.stepDef" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Learn.Java" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: SearchFlights" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Search Flight One Way" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/com/epam/FeatureFiles/SearchFlights.feature" />
+      <option name="GLUE" value="com.epam.stepDef" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Learn.Java" />
+      <option name="NAME_FILTER" value="^Search Flight One Way$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Search Flight One Way$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Search Flight One Way" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Search Flight Round Trip" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/com/epam/FeatureFiles/SearchFlights.feature" />
+      <option name="GLUE" value="com.epam.stepDef" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Learn.Java" />
+      <option name="NAME_FILTER" value="^Search Flight Round Trip$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Search Flight Round Trip$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Search Flight Round Trip" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppConfig" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Learn.Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.stepDef.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.stepDef" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.stepDef.AppConfig" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCukesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.TestRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.TestRunner" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.TestRunner.RunCukesTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCukesTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Learn.Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.TestRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.TestRunner" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.TestRunner.RunCukesTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login.feature" type="substepsFeature" factoryName="Substeps Feature" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="" />
+      <option name="model">
+        <SubstepsRunnerConfigurationModel>
+          <option name="classPathString" />
+          <option name="homePath" />
+          <option name="modulePath" value="$PROJECT_DIR$/LearnJava.iml" />
+          <option name="myListener" />
+          <option name="nonStrictKeywordPrecedence" />
+          <option name="pathToFeature" value="$PROJECT_DIR$/src/test/java/com/epam/resources/Login.feature" />
+          <option name="scenarioName" />
+          <option name="stepImplentationClassNames">
+            <array />
+          </option>
+          <option name="strict" value="false" />
+          <option name="subStepDefinitionDirectory" />
+          <option name="tags" />
+          <option name="versionString" />
+          <option name="workingDir" value="$PROJECT_DIR$" />
+        </SubstepsRunnerConfigurationModel>
+      </option>
+      <option name="classPathString" />
+      <option name="homePath" />
+      <option name="modulePath" value="$PROJECT_DIR$/LearnJava.iml" />
+      <option name="myListener" />
+      <option name="nonStrictKeywordPrecedence" />
+      <option name="pathToFeature" value="$PROJECT_DIR$/src/test/java/com/epam/resources/Login.feature" />
+      <option name="scenarioName" />
+      <option name="stepImplentationClassNames">
+        <array />
+      </option>
+      <option name="strict" value="false" />
+      <option name="subStepDefinitionDirectory" />
+      <option name="tags" />
+      <option name="versionString" />
+      <option name="workingDir" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Substeps Feature.Login.feature" />
+      <item itemvalue="JUnit.RunCukesTest" />
+      <item itemvalue="Cucumber java.Scenario: Search Flight One Way" />
+      <item itemvalue="Cucumber java.Feature: SearchFlights" />
+      <item itemvalue="Cucumber java.Scenario: Search Flight Round Trip" />
+      <item itemvalue="JUnit.AppConfig" />
+      <item itemvalue="TestNG.RunCukesTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RunCukesTest" />
+        <item itemvalue="Cucumber java.Feature: SearchFlights" />
+        <item itemvalue="Cucumber java.Scenario: Search Flight One Way" />
+        <item itemvalue="Cucumber java.Scenario: Search Flight Round Trip" />
+        <item itemvalue="JUnit.AppConfig" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0683261-5688-464e-ac77-14413b650928" name="Default Changelist" comment="" />
+      <created>1542090497009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542090497009</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Scenario__Search_Flight_One_Way - 2019.01.31 at 16h 08m 19s.xml">
+      <configuration name="Scenario: Search Flight One Way" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Search_Flight_One_Way - 2019.01.31 at 16h 10m 43s.xml">
+      <configuration name="Scenario: Search Flight One Way" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="RunCukesTest - 2019.01.31 at 16h 15m 54s.xml">
+      <configuration name="RunCukesTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Scenario__Search_Flight_One_Way - 2019.01.31 at 17h 01m 52s.xml">
+      <configuration name="Scenario: Search Flight One Way" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Search_Flight_One_Way - 2019.01.31 at 17h 08m 42s.xml">
+      <configuration name="Scenario: Search Flight One Way" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__SearchFlights - 2019.01.31 at 17h 10m 47s.xml">
+      <configuration name="Feature: SearchFlights" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="RunCukesTest - 2019.02.01 at 11h 26m 33s.xml">
+      <configuration name="RunCukesTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunCukesTest - 2019.02.01 at 11h 29m 48s.xml">
+      <configuration name="RunCukesTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunCukesTest - 2019.02.01 at 11h 33m 20s.xml">
+      <configuration name="RunCukesTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunCukesTest - 2019.02.01 at 11h 34m 49s.xml">
+      <configuration name="RunCukesTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1913646" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4989339" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7436034" weight="0.32925472" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8288913" weight="0.3971079" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4989339" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.2563966" side_tool="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="10" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.44296375" weight="0.32814237" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" sideWeight="0.49733475" weight="0.329718" />
+      <window_info anchor="bottom" id="SonarQube" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" visible="true" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1913646" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4989339" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7436034" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8288913" weight="0.3971079" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4989339" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.2563966" side_tool="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="10" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.44296375" weight="0.32814237" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" sideWeight="0.49733475" weight="0.329718" />
+      <window_info anchor="bottom" id="SonarQube" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" visible="true" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/resources/featureFiles/vinesh.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/stepDef/LoginTestScript.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/com/epam/TestRunner/vinesh.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/TestRunner/Vinesh.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0-sources.jar!/org/openqa/selenium/support/pagefactory/DefaultElementLocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-junit/1.2.3/cucumber-junit-1.2.3.jar!/cucumber/runtime/junit/ExecutionUnitRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.3/cucumber-core-1.2.3.jar!/cucumber/runtime/model/CucumberScenario.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.3/cucumber-core-1.2.3.jar!/cucumber/runtime/model/StepContainer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.3/cucumber-core-1.2.3.jar!/cucumber/runtime/Timeout.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.3/cucumber-core-1.2.3.jar!/cucumber/runtime/Runtime.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="359" column="55" lean-forward="true" selection-start-line="359" selection-start-column="55" selection-end-line="359" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.3/cucumber-core-1.2.3.jar!/cucumber/runtime/StepDefinitionMatch.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-java/1.2.3/cucumber-java-1.2.3.jar!/cucumber/runtime/java/JavaStepDefinition.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.3/cucumber-core-1.2.3.jar!/cucumber/runtime/Utils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.3/cucumber-core-1.2.3-sources.jar!/cucumber/runtime/Timeout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.3/cucumber-core-1.2.3-sources.jar!/cucumber/runtime/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-java/1.2.3/cucumber-java-1.2.3-sources.jar!/cucumber/runtime/java/JavaStepDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.3/cucumber-core-1.2.3-sources.jar!/cucumber/runtime/StepDefinitionMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.3/cucumber-core-1.2.3-sources.jar!/cucumber/runtime/Runtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="311" selection-start-line="311" selection-end-line="311" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.3/cucumber-core-1.2.3-sources.jar!/cucumber/runtime/model/StepContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.3/cucumber-core-1.2.3-sources.jar!/cucumber/runtime/FeatureBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/Resources/Hooks.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-junit/1.2.3/cucumber-junit-1.2.3-sources.jar!/cucumber/api/junit/Cucumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber-reports/index.html" />
+    <entry file="file://$PROJECT_DIR$/cucumber.xml" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/PageClasses/FlightResultsElementsMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="967" column="18" selection-start-line="967" selection-start-column="18" selection-end-line="967" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/Resources/Config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/Resources/ConfigReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.4/cucumber-core-1.2.4-sources.jar!/cucumber/runtime/Timeout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.4/cucumber-core-1.2.4-sources.jar!/cucumber/runtime/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#1166#2048#0" expanded="true" />
+            <element signature="e#2047#2048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-java/1.2.4/cucumber-java-1.2.4-sources.jar!/cucumber/runtime/java/JavaStepDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.4/cucumber-core-1.2.4-sources.jar!/cucumber/runtime/StepDefinitionMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.4/cucumber-core-1.2.4-sources.jar!/cucumber/runtime/Runtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="311" selection-start-line="311" selection-end-line="311" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.4/cucumber-core-1.2.4-sources.jar!/cucumber/runtime/model/StepContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log4j.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="152" column="6" selection-start-line="152" selection-start-column="6" selection-end-line="152" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/Resources/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/Resources/Locators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/stepDef/Hooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="698">
+          <caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/stepDef/SearchFlight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="72" column="23" lean-forward="true" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2123#2124#0" expanded="true" />
+            <element signature="e#2170#2171#0" expanded="true" />
+            <element signature="e#1550#1551#0" expanded="true" />
+            <element signature="e#1599#1600#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/PageClasses/HomePageElementsMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="125" column="45" lean-forward="true" selection-start-line="125" selection-start-column="45" selection-end-line="125" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4316#4317#0" expanded="true" />
+            <element signature="e#4352#4353#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/TestRunner/RunCukesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/Resources/Log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/FeatureFiles/SearchFlights.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Learn.Java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib-nodep:3.2.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
