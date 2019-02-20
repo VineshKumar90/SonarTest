@@ -106,5 +106,5 @@
 2019-02-01 11:50:09 INFO  Log:72 - User Entered Departure Date as : 10/02/2019
 2019-02-01 11:50:09 INFO  Log:74 - User Entered Departure Date as : 10/02/2019
 2019-02-01 11:50:09 INFO  Log:76 - User Selected Adult count as : 5
-2019-02-01 11:50:11 INFO  Log:60 - User Clicked on Search Button
+2019-02-01 11:50:11 INFO  Log:60 - User Clicked on Search ButtonVinesh
 2019-02-01 11:50:12 INFO  ClassPathXmlApplicationContext:987 - Closing org.springframework.context.support.ClassPathXmlApplicationContext@a1f72f5: startup date [Fri Feb 01 11:49:17 IST 2019]; root of context hierarchy
